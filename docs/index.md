@@ -3,9 +3,9 @@ layout: default
 title: Hidden Berkeley
 ---
 
-# Hidden Berkeley
+# Useful Berkeley Resources
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+These resources range from basic needs to visiting the Botanical Garden. All students, undergraduate and graduate, are welcome to visit this page.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
